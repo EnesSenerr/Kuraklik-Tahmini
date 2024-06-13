@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neo4j Veri Çekme</title>
+</head>
+<body>
+    <button id="fetch-data-btn2">Verileri Çek</button>
+    <div id="results"></div>
+
+    <script src="https://unpkg.com/neo4j-driver/lib/browser/neo4j-web.js"></script>
+    <script>
+        // Neo4j bağlantı bilgileri
+        const uri = 'bolt://localhost:7687';
+        const user = 'neo4j';
+        const password = '12345678';
+
+        // Neo4j sürücüsünü oluşturma
+        const driver = neo4j.driver(uri, neo4j.auth.basic(user, password));
+
+        // Ocak ayına ait tüm illerin kuraklık etiketini çekmek için Cypher sorgusu
+        const query = `
+            MATCH (ay:Ay {name: 'September'})-[:ICERIR]->(sehir:Sehir)
+            RETURN sehir.name AS Il, sehir.kuraklik_durumu AS KuraklikDurumu
+        `;
+
+        async function fetchData() {
+            const session = driver.session();
+
+            try {
+                const result = await session.run(query);
+                const records = result.records.map(record => ({
+                    Il: record.get('Il'),
+                    KuraklikDurumu: record.get('KuraklikDurumu')
+                }));
+                displayResults(records);
+            } catch (error) {
+                console.error('Error fetching data:', error);
+            } finally {
+                await session.close();
+            }
+        }
+
+        function displayResults(records) {
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = '<h3>Sonuçlar</h3>';
+            records.forEach(record => {
+                const div = document.createElement('div');
+                div.textContent = ` "${record.Il}":[${record.KuraklikDurumu}]`;
+                resultsDiv.appendChild(div);
+            });
+        }
+
+        document.getElementById('fetch-data-btn2').addEventListener('click', fetchData);
+    </script>
+</body>
+</html>

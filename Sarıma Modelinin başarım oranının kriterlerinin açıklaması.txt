@@ -1,0 +1,40 @@
+MAE (Ortalama Mutlak Hata):
+
+Tahmin edilen değerler ile gerçek değerler arasındaki farkların mutlak değerlerinin ortalamasıdır.
+Hata büyüklüğünün ortalama olarak ne kadar olduğunu gösterir.
+Birimi, tahmin edilen değişkenle aynıdır (örneğimizde mm/ay).
+MAE ne kadar düşükse, modelin tahminleri gerçek değerlere o kadar yakındır.
+MSE (Ortalama Karesel Hata):
+
+Tahmin edilen değerler ile gerçek değerler arasındaki farkların karelerinin ortalamasıdır.
+Büyük hatalara daha fazla ağırlık verir, çünkü farklar kare alındığında büyük hatalar daha da büyür.
+Birimi, tahmin edilen değişkenin karesidir (örneğimizde mm²/ay).
+MSE ne kadar düşükse, modelin tahminleri gerçek değerlere o kadar yakındır ve büyük hatalar yapma olasılığı o kadar düşüktür.
+MAPE (Ortalama Mutlak Yüzde Hata):
+
+Tahmin edilen değerler ile gerçek değerler arasındaki mutlak yüzde hatalarının ortalamasıdır.
+Hataların gerçek değerlere göre ortalama yüzdelik oranını gösterir.
+Yüzde olarak ifade edilir.
+MAPE ne kadar düşükse, modelin tahminleri gerçek değerlere göre yüzdelik olarak o kadar doğrudur.
+Örnek:
+
+Elazığ için hesaplanan hata metrikleri:
+
+MAE: 13.91 mm/ay
+MSE: 275.53 mm²/ay
+MAPE: 36.52%
+Bu değerler bize şunları söyler:
+
+SARIMA modeli, Elazığ için aylık ortalama yağış miktarını tahmin ederken ortalama 13.91 mm hata yapmıştır.
+Modelin hataları, büyük hatalara daha fazla ağırlık verildiğinde ortalama 275.53 mm²'lik bir karesel hataya karşılık gelir.
+Modelin tahminleri, gerçek değerlere göre ortalama %36.52 oranında sapmıştır.
+
+
+Çok Kurak: Yağış miktarı 0 ise.
+Kurak: Yağış miktarı, ortanca değerin %50'sinden az veya eşit ise.
+Yarı Kurak: Yağış miktarı, ortanca değerin %50 ile %80'i arasında ise.
+Yarı Nemli: Yağış miktarı, ortanca değerin %80 ile %120'si arasında ise.
+Nemli: Yağış miktarı, ortanca değerin %120 ile %200'ü arasında ise.
+Çok Nemli: Yağış miktarı, ortanca değerin %200'ünden fazla ise.
+
+
