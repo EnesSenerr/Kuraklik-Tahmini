@@ -1,0 +1,81 @@
+City,January,February,March,April,May,June,July,August,September,October,November,December
+ADANA,Nemli,Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Nemli
+ADIYAMAN,Nemli,Nemli,Nemli,Nemli,Yarı Nemli,Kurak,Kurak,Kurak,Kurak,Yarı Nemli,Nemli,Nemli
+AGRI,Yarı Kurak,Yarı Kurak,Yarı Nemli,Nemli,Nemli,Nemli,Nemli,Yarı Nemli,Yarı Nemli,Nemli,Yarı Kurak,Yarı Kurak
+AKSARAY,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak
+AMASYA,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak,Yarı Kurak
+ANKARA,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak,Yarı Kurak
+ANTALYA,Çok Nemli,Çok Nemli,Nemli,Yarı Nemli,Yarı Kurak,Kurak,Kurak,Kurak,Yarı Nemli,Nemli,Çok Nemli,Çok Nemli
+ARDAHAN,Kurak,Kurak,Yarı Kurak,Yarı Nemli,Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Nemli,Yarı Nemli,Kurak,Kurak
+ARTVIN,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Nemli,Nemli,Yarı Nemli
+AYDIN,Nemli,Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Kurak,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Nemli,Nemli
+BALIKESIR,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Nemli,Yarı Nemli,Kurak,Nemli,Yarı Nemli,Nemli,Yarı Nemli
+BARTIN,Nemli,Nemli,Nemli,Yarı Nemli,Yarı Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Nemli,Nemli
+BATMAN,Yarı Nemli,Yarı Nemli,Nemli,Nemli,Yarı Nemli,Kurak,Kurak,Kurak,Kurak,Yarı Kurak,Yarı Nemli,Yarı Kurak
+BAYBURT,Kurak,Kurak,Yarı Kurak,Yarı Nemli,Nemli,Nemli,Nemli,Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Kurak
+BILECIK,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Nemli,Nemli,Nemli,Nemli,Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak
+BINGOL,Nemli,Nemli,Çok Nemli,Çok Nemli,Nemli,Yarı Kurak,Yarı Kurak,Kurak,Yarı Kurak,Nemli,Nemli,Nemli
+BITLIS,Çok Nemli,Nemli,Çok Nemli,Çok Nemli,Nemli,Kurak,Yarı Kurak,Yarı Kurak,Yarı Nemli,Çok Nemli,Nemli,Nemli
+BOLU,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Nemli,Çok Nemli,Çok Nemli,Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak
+BURDUR,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak,Yarı Kurak
+BURSA,Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Nemli,Nemli,Çok Nemli,Nemli,Nemli,Nemli
+CANAKKALE,Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Nemli,Nemli,Nemli,Nemli
+CANKIRI,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Nemli,Nemli,Nemli,Yarı Nemli,Yarı Kurak,Kurak,Yarı Kurak
+CORUM,Yarı Kurak,Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Nemli,Nemli,Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak,Yarı Kurak
+DENIZLI,Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli
+DIYARBAKIR,Yarı Nemli,Yarı Nemli,Yarı Nemli,Nemli,Yarı Nemli,Kurak,Kurak,Kurak,Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli
+DUZCE,Nemli,Yarı Nemli,Nemli,Yarı Nemli,Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Nemli,Nemli,Nemli
+EDIRNE,Yarı Nemli,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Nemli,Çok Nemli,Çok Nemli,Nemli,Nemli,Yarı Nemli,Yarı Nemli
+ELAZIG,Yarı Kurak,Yarı Kurak,Yarı Nemli,Nemli,Yarı Nemli,Kurak,Kurak,Kurak,Kurak,Yarı Nemli,Yarı Nemli,Yarı Kurak
+ERZINCAN,Kurak,Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Kurak,Kurak
+ERZURUM,Kurak,Kurak,Yarı Kurak,Yarı Nemli,Nemli,Nemli,Çok Nemli,Nemli,Nemli,Yarı Nemli,Yarı Kurak,Kurak
+ESKISEHIR,Kurak,Kurak,Kurak,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak
+GAZIANTEP,Nemli,Nemli,Nemli,Yarı Nemli,Yarı Kurak,Kurak,Yarı Kurak,Kurak,Kurak,Yarı Nemli,Yarı Nemli,Nemli
+GIRESUN,Nemli,Nemli,Nemli,Nemli,Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Nemli
+GUMUSHANE,Kurak,Kurak,Yarı Kurak,Yarı Nemli,Nemli,Nemli,Yarı Nemli,Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak
+HAKKARI,Nemli,Nemli,Çok Nemli,Çok Nemli,Nemli,Kurak,Kurak,Kurak,Yarı Kurak,Nemli,Nemli,Yarı Nemli
+HATAY,Çok Nemli,Çok Nemli,Çok Nemli,Nemli,Nemli,Yarı Nemli,Yarı Nemli,Nemli,Çok Nemli,Nemli,Nemli,Çok Nemli
+ICEL,Nemli,Nemli,Yarı Nemli,Yarı Kurak,Kurak,Kurak,Yarı Nemli,Yarı Kurak,Yarı Kurak,Yarı Nemli,Nemli,Nemli
+IGDIR,Kurak,Kurak,Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak,Kurak,Kurak
+ISPARTA,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Nemli
+ISTANBUL,Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak,Nemli,Çok Nemli,Çok Nemli,Nemli,Nemli,Nemli
+IZMIR,Nemli,Nemli,Nemli,Yarı Nemli,Yarı Kurak,Kurak,Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Nemli,Nemli
+KAHRAMANMARAS,Nemli,Nemli,Nemli,Nemli,Yarı Kurak,Kurak,Kurak,Kurak,Yarı Kurak,Yarı Nemli,Nemli,Nemli
+KARABUK,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Nemli,Nemli,Çok Nemli,Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak
+KARAMAN,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak,Kurak,Yarı Kurak,Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak
+KARS,Kurak,Kurak,Kurak,Yarı Nemli,Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Nemli,Yarı Nemli,Kurak,Kurak
+KASTAMONU,Kurak,Kurak,Yarı Kurak,Yarı Nemli,Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Nemli,Yarı Kurak,Kurak,Kurak
+KAYSERI,Kurak,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Nemli,Yarı Kurak,Yarı Kurak,Yarı Kurak,Kurak
+KILIS,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Kurak,Kurak,Yarı Kurak,Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli
+KIRIKKALE,Yarı Kurak,Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak
+KIRKLARELI,Yarı Nemli,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Nemli,Çok Nemli,Nemli,Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli
+KIRSEHIR,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak
+KOCAELI,Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Nemli,Nemli,Nemli
+KONYA,Yarı Kurak,Kurak,Kurak,Yarı Kurak,Yarı Nemli,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak
+KUTAHYA,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Nemli,Nemli,Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli
+MALATYA,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Kurak,Kurak,Kurak,Kurak,Yarı Nemli,Yarı Kurak,Yarı Kurak
+MANISA,Nemli,Nemli,Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Nemli,Nemli
+MARDIN,Nemli,Nemli,Nemli,Nemli,Yarı Nemli,Kurak,Kurak,Kurak,Kurak,Yarı Kurak,Nemli,Nemli
+MUGLA,Çok Nemli,Çok Nemli,Çok Nemli,Nemli,Yarı Nemli,Yarı Kurak,Yarı Nemli,Nemli,Nemli,Nemli,Çok Nemli,Çok Nemli
+MUS,Nemli,Nemli,Nemli,Nemli,Nemli,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Nemli,Nemli,Nemli,Yarı Nemli
+NEVSEHIR,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak
+NIGDE,Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Kurak
+ORDU,Nemli,Nemli,Nemli,Nemli,Yarı Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Nemli,Nemli
+OSMANIYE,Nemli,Nemli,Nemli,Nemli,Nemli,Yarı Nemli,Nemli,Yarı Nemli,Nemli,Nemli,Nemli,Yarı Nemli
+RIZE,Çok Nemli,Çok Nemli,Çok Nemli,Nemli,Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Çok Nemli
+SAKARYA,Nemli,Yarı Nemli,Nemli,Yarı Nemli,Yarı Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Nemli,Nemli,Nemli
+SAMSUN,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Nemli,Nemli,Yarı Nemli
+SANLIURFA,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Kurak,Kurak,Kurak,Kurak,Yarı Kurak,Yarı Kurak,Yarı Nemli
+SIIRT,Nemli,Nemli,Nemli,Nemli,Nemli,Kurak,Kurak,Kurak,Kurak,Yarı Nemli,Nemli,Yarı Nemli
+SINOP,Yarı Nemli,Yarı Kurak,Yarı Nemli,Yarı Kurak,Yarı Kurak,Yarı Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Nemli,Nemli,Yarı Nemli
+SIRNAK,Nemli,Nemli,Nemli,Çok Nemli,Yarı Nemli,Kurak,Kurak,Kurak,Kurak,Yarı Nemli,Nemli,Yarı Nemli
+SIVAS,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Kurak,Yarı Kurak,Yarı Kurak
+TEKIRDAG,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Nemli,Nemli,Nemli,Nemli,Nemli,Nemli,Yarı Nemli
+TOKAT,Yarı Kurak,Yarı Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Kurak
+TRABZON,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Nemli,Yarı Nemli
+TUNCELI,Nemli,Nemli,Nemli,Nemli,Nemli,Yarı Kurak,Kurak,Kurak,Yarı Nemli,Nemli,Nemli,Nemli
+USAK,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli
+VAN,Kurak,Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Kurak,Kurak,Yarı Kurak,Yarı Nemli,Yarı Nemli,Yarı Kurak,Kurak
+YALOVA,Nemli,Yarı Nemli,Nemli,Yarı Nemli,Yarı Kurak,Yarı Nemli,Nemli,Çok Nemli,Çok Nemli,Nemli,Nemli,Nemli
+YOZGAT,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Nemli,Nemli,Yarı Nemli,Yarı Nemli,Yarı Nemli,Yarı Kurak,Yarı Nemli,Yarı Nemli
+ZONGULDAK,Nemli,Nemli,Nemli,Nemli,Yarı Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Çok Nemli,Nemli
