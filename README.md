@@ -3,7 +3,7 @@ Bu proje, Türkiye'nin farklı illerindeki kuraklık riskini tahmin etmek ve bu 
 
 
 # ![image](https://github.com/EnesSenerr/Kuraklik-Tahmini/assets/95829898/367421b5-4b00-42fc-8e25-670662811d57)
-#![image](https://github.com/EnesSenerr/Kuraklik-Tahmini/assets/95829898/a30353cb-ecf4-48f1-8508-fe914bf7f01c)
+# ![image](https://github.com/EnesSenerr/Kuraklik-Tahmini/assets/95829898/a30353cb-ecf4-48f1-8508-fe914bf7f01c)
 # ![image](https://github.com/EnesSenerr/Kuraklik-Tahmini/assets/95829898/4abac830-bbae-4475-a74d-25a900a4e70c)
 
 
