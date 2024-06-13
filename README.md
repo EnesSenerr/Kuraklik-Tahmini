@@ -1,6 +1,12 @@
 Türkiye'de Kuraklık Tahmini ve İnteraktif Görselleştirme
 Bu proje, Türkiye'nin farklı illerindeki kuraklık riskini tahmin etmek ve bu bilgiyi etkileşimli bir harita üzerinde görselleştirmek için yapay zeka ve grafik veritabanı teknolojilerini kullanır.
 
+
+# ![image](https://github.com/EnesSenerr/Kuraklik-Tahmini/assets/95829898/367421b5-4b00-42fc-8e25-670662811d57)
+#![image](https://github.com/EnesSenerr/Kuraklik-Tahmini/assets/95829898/a30353cb-ecf4-48f1-8508-fe914bf7f01c)
+# ![image](https://github.com/EnesSenerr/Kuraklik-Tahmini/assets/95829898/4abac830-bbae-4475-a74d-25a900a4e70c)
+
+
 Proje Özeti
 Türkiye'nin geleceği için hayati bir konu olan kuraklıkla mücadelede, bilimsel verilerin gücünü kullanarak daha bilinçli ve sürdürülebilir bir gelecek inşa ediyoruz. Bu projede, geçmiş yıllara ait aylık yağış miktarı verileri kullanılarak SARIMA modeli ile gelecek aylara ait yağış tahminleri yapılmış ve bu tahminler iller, aylar ve kuraklık durumu arasındaki ilişkileri modelleyen Neo4j grafik veritabanında saklanmıştır. Son olarak, kullanıcıların şehirleri seçerek detaylı hava durumu ve kuraklık bilgilerine erişebileceği etkileşimli bir harita arayüzü geliştirilmiştir.
 
