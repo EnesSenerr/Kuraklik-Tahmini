@@ -18,7 +18,8 @@ Türkiye'nin geleceği için hayati bir konu olan kuraklıkla mücadelede, bilim
 
 - **Geçmiş yıllara ait aylık yağış miktarı verileri** kullanılarak SARIMA modeli ile geleceğe yönelik tahminler yapılmıştır.  
 - Tahmin sonuçları, **Neo4j grafik veritabanında** iller, aylar ve kuraklık durumları arasındaki ilişkilerle birlikte saklanmıştır.  
-- Kullanıcıların detaylı hava durumu ve kuraklık bilgilerine erişebileceği **etkileşimli bir harita arayüzü** geliştirilmiştir.  
+- Kullanıcıların detaylı hava durumu ve kuraklık bilgilerine erişebileceği **etkileşimli bir harita arayüzü** geliştirilmiştir.
+- Şehirlerin gün doğumu ve batımını bir ilerleme çubuğu şeklinde görselleştirebiliyoruz.
 
 ---
 
